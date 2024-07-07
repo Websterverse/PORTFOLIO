@@ -1,7 +1,6 @@
 import React, { useState } from 'react'
 import { FaBars, FaTimes } from 'react-icons/fa'
 import {Link} from 'react-scroll'
-import '../Home.css'
 
 const NAV = () => {
 
@@ -37,7 +36,7 @@ const NAV = () => {
 
 
     return (
-        <div className='w-full h-20 flex justify-between bg-black px-4    items-center text-white  fixed  navi   ' >
+        <div className='w-full h-20 flex justify-between bg-black px-4    items-center text-white  fixed  ' >
 
             <div>
                 <h1 className='text-5xl font-signature ml-2 ' >Kartik</h1>

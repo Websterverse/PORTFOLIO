@@ -14,11 +14,11 @@ const ABOUT = () => {
 
 
 
-<p className='text-xl mt-20' > I'm Kartik Kumar, a second-year student pursuing a BCA degree at Maharaja Surajmal College. With a keen interest in web development, I'm passionate about creating engaging and user-friendly websites.</p>
+<p className='text-xl mt-20' >  I'm a Full Stack Web Developer with expertise in the MERN stack (MongoDB, Express.js, React, and Node.js). I have a strong passion for creating dynamic, responsive, and user-friendly web applications.</p>
 
 <br />
 
-<p className='text-xl' >Feel free to explore my portfolio to see some of my projects and get a glimpse of my work. I'm always open to new opportunities and collaborations, so don't hesitate to reach out if you'd like to connect or work together on something exciting!</p>
+<p className='text-xl' >Currently, I am pursuing a BCA from Maharaja Surajmal Institute (2022-2025). My skill set includes proficiency in frontend technologies like HTML, CSS, and JavaScript, as well as backend development with Node.js and Express.js. I am dedicated to writing clean, maintainable code and following best practices to ensure high-quality software. My goal is to build applications that provide excellent user experiences and meet the needs of users.</p>
 
 
 </div>

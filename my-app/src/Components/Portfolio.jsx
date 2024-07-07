@@ -1,14 +1,16 @@
 import React from 'react'
-import Rayban from "../assert/Rayban.png"
-import Landing_Page from "../assert/Landing_Page.png"
+// import Rayban from "../assert/Rayban.png"
+// import Landing_Page from "../assert/Landing_Page.png"
 import SIDCLUB from "../assert/SIDCLUB.png"
-import Weather from "../assert/Weather.png"
+// import Weather from "../assert/Weather.png"
 import Retrorr from "../assert/retrorr.png"
 import Cynthia from "../assert/Cynthia.png"
-import Ochi from '../assert/owl.png'
+import tracker from "../assert/tr.png"
 import IMDB from "../assert/imdb.png"
-import '../Home.css'
+// import CHAT from "../assertcrwom.png"
 
+import '../Home.css'
+import chat from "../assert/crwom.png"
 
 
 const Portfolio = () => {
@@ -16,47 +18,51 @@ const Portfolio = () => {
     const portfolios = [
         {
             id: 1,
-            scr: Ochi,
-            demo: "https://cloneofochi.netlify.app/",
-            code : "https://github.com/Websterverse/OCHI_CLONE" ,
-
+            scr: tracker,
+            demo: "https://trackker-1.onrender.com/",
+            code : "https://github.com/Websterverse/TRACKKER"
+            
         },
         {
             id: 2,
             scr: SIDCLUB,
 
-            demo: "https://65cdc287fa3b1862ca6ba25b--keen-cendol-a931bc.netlify.app/",
-            code : "https://github.com/Websterverse/sidcub_golf" ,
+            demo: "https://sidcupgolf--websterverse.repl.co/",
+            code : "https://github.com/Websterverse/TRACKKER"
         },
         {
             id: 3,
-            scr: Weather,
-            demo: "https://65cdc37b1d0ba6651304c1db--astonishing-arithmetic-7e0a02.netlify.app/",
-            code : "https://github.com/Websterverse/RAYBAN" ,
-
+            scr: chat,
+            demo: "https://crown-talk.onrender.com/",
+            code : "https://github.com/Websterverse/CROWN-TALK"
+            
         },
         {
             id: 4,
             scr: Retrorr,
-            demo: "https://65cdc2e7fbdf027f9c583c1a--superlative-medovik-b12f8d.netlify.app/",
-            code: "https://github.com/Websterverse/MIRANDA" ,
-
+            demo: "https://miranda--websterverse.repl.co/",
+            code : "https://github.com/Websterverse/TRACKKER"
+            
         },
         {
             id: 5,
-            scr: IMDB,
-            demo: "https://k1ngk4rr-imdb.netlify.app/",
-            code: "https://github.com/Websterverse/IMDB" ,
-
+            scr: Cynthia,
+            demo: "https://neglectedtemporalopposites.websterverse.repl.co/",
+            code : "https://github.com/Websterverse/Cynthia_Clone"
+            
         },
         {
             id: 6,
-            scr: Rayban,
-            demo: "https://65cdc59a22d9657c29976a2f--tangerine-crepe-1938ba.netlify.app/",
-            code: "https://github.com/Websterverse/RAYBAN" ,
+            scr: IMDB,
+            demo: "https://k1ngk4rr-imdb.netlify.app/",
+            code : "https://github.com/Websterverse/IMDB"
         },
-
-
+        // {
+        //     id: 7,
+        //     scr: Rayban,
+        //     demo: "https://god--websterverse.repl.co/",
+        //     code : "https://github.com/Websterverse/TRACKKER"
+        // },
         
     ]
 

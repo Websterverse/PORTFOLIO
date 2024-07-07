@@ -17,8 +17,8 @@ CURRENTLY , I LOVE TO WORK ON WEB APPLICATION USING
 TECHNOLOGIES LIKE REACT , TAILWIND , NODEJS AND EXPRESS JS 
 </p>
 <div className='' >
-<Link  to='portfolio' smooth duration={500}  className='  pt  group flex items-center    rounded-md text-white w-fit px-6 py-3 my-2 bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer ' >
-    Portfolio <span className=' pt group-hover:rotate-90 duration-300 ' > <MdKeyboardDoubleArrowRight  className=' pt ml-1' size={25} /> </span>
+<Link  to='portfolio' smooth duration={500}  className=' group flex items-center    rounded-md text-white w-fit px-6 py-3 my-2 bg-gradient-to-r from-cyan-500 to-blue-500 cursor-pointer ' >
+    Portfolio <span className='group-hover:rotate-90 duration-300 ' > <MdKeyboardDoubleArrowRight  className='ml-1' size={25} /> </span>
 </Link>
 
 </div>

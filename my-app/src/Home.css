@@ -1,24 +1,5 @@
 @media only screen and (max-width: 600px) {
-
   
-*{
-
-background-color: #000;
-
-}  
-
-.pt{
-
-  background: linear-gradient(cyan , blue);
-}
-
-.navi {
-
-width: 80%;
-height: 100px;
-} 
-
-
 .home{
 
   width: 100%;
@@ -32,9 +13,6 @@ width:    600px;
 
 }
 .about{
-
-background-color: #000;  
-
 /* padding-top: 200px; */
   width: 100%;
   height: 210vh;
@@ -49,11 +27,11 @@ margin-top: -300px;
 
 
 .portfolio{
-  background-color: #000;  
+
 width: 100%;
 height: 200vh;
 /* background: #000; */
-/* color: red; */
+color: red;
 /* margin-top: -300px; */
 
 
